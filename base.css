@@ -1,1 +1,21 @@
 
+body {
+    max-width: 1280px;
+    background-color: white;
+    font-family: 'Montserrat', san s-serif;
+    /* display: flex; */
+}
+
+h1, h2, h3, h4, nav, footer {
+    background-color: lightgray;
+    display: flex;
+    align-items: center;
+}
+
+section {
+    display: flex;
+    justify-content: center;
+}
+header {
+    display: block;
+}
